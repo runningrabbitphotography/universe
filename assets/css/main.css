@@ -2328,7 +2328,7 @@ input, select, textarea {
 /* One-3 TAKE THE QUIZ */
 
 	#one-3 {
-		background: url("images/overlay.png"), url("../../images/one-2.jpg");
+		background: url("images/overlay.png"), url("../../images/take-the-quiz-2.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
